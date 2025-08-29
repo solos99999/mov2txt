@@ -1,0 +1,19 @@
+# 核心依赖
+sherpa-ncnn>=1.8.0
+numpy>=1.20.0
+moviepy>=1.0.3
+
+# 音频处理
+pydub>=0.25.1
+
+# 工具库
+tqdm>=4.62.0
+colorama>=0.4.4
+
+# 配置管理
+pyyaml>=6.0
+
+# 可选依赖 (uncomment as needed)
+# pyaudio>=0.2.11          # 音频录制支持
+# PyQt5>=5.15.0            # 图形界面支持
+# whisper>=1.0.0           # OpenAI Whisper支持
